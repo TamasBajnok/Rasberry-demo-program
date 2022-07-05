@@ -1,9 +1,6 @@
 from luma.core.interface.serial import spi
 from luma.core.render import canvas
 from luma.lcd.device import st7735
-from time import sleep
-import sys
-import keyboard
 
 screen_width = 128
 screen_height = 128
